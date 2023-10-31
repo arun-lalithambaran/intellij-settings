@@ -14,7 +14,7 @@
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
       <status project="D:/Projects/ddcanrapi" dbn="ACTIVE" sql="MISSING" />
-      <status project="D:/My Works/neptune" dbn="PASSIVE" sql="MISSING" />
+      <status project="D:/My Works/neptune" dbn="ACTIVE" sql="MISSING" />
       <status project="D:/Projects/helpapi" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
     </plugin-statuses>
